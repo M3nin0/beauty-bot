@@ -12,3 +12,7 @@ A maneira de configurar e iniciar a criar os bots, pode ser vista em [python-mes
 ![Chat 2](https://github.com/M3nin0/beauty-bot/blob/master/examples/chat_2.PNG)
 
 Exemplo de utilização do [python-messenger-bot](https://github.com/M3nin0/python-messenger-bot)
+
+## Attachments
+
+Os attachment foram gerados utilizando a lib: [imagery-messenger](https://github.com/M3nin0/imagery-messenger.git)
