@@ -1,4 +1,4 @@
-# beauty-bot
+# Beauty BOT
 
 Bot simples criado para facilitar a comunicação em páginas de salão de beleza.
 
